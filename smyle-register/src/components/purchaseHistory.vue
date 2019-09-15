@@ -3,9 +3,17 @@
         <div>
             <p class="grid" style="font-size:.75em; margin: -.5">Date</p>
             <p class="grid" style="font-size:.75em; margin: -.5">Card</p>
-            <p class="grid" style="font-size:.75em; margin: -.5">Location</p>
+            <p class="grid" style="font-size:.75em; margin: -.5">Item   </p>
             <p class="grid" style="float: right;font-size:.75em; margin: -.5">Amount </p>
         </div>
+                
+        <div>
+            <p class="grid" style=" margin: -.5">15/09</p>
+            <p class="grid" style=" margin: -.5">Visa</p>
+            <p class="grid" style=" margin: -.5">Location</p>
+            <p class="grid" style="float: right; margin: -.5; color:red">-9.5 </p>
+        </div>              
+
         <div >
         </div>
     </div>
